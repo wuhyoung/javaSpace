@@ -19,6 +19,7 @@ public class ThreadPoolExecutorDemo {
 		TimeUnit unit =  TimeUnit.MILLISECONDS; //keepAliveTime 的时间单位
 		LinkedBlockingDeque<Runnable> workQueue = new LinkedBlockingDeque<Runnable>(); // 阻塞时的队列
 		Runnable myRunnable = new MyRuannable();
+
 		
 		ThreadPoolExecutor executor 
 		= new ThreadPoolExecutor(3, 6, 5, TimeUnit.SECONDS, new SynchronousQueue<Runnable>());
