@@ -1,0 +1,9 @@
+2018-03-15 14:25:28,260 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wuhyoung:threadPool:0.0.1-SNAPSHOT @ D:\javaSpace\DemoJava\pom.xml.
+2018-03-15 14:25:29,617 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-15 14:25:29,617 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\main\resources
+2018-03-15 14:25:29,617 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-15 14:25:29,617 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\test\resources
+2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\main\resources
+2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\test\resources
