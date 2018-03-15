@@ -7,3 +7,7 @@
 2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\main\resources
 2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-03-15 14:25:31,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\test\resources
+2018-03-15 14:55:30,441 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-15 14:55:30,441 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\main\resources
+2018-03-15 14:55:30,441 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-03-15 14:55:30,441 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\javaSpace\DemoJava\src\test\resources
